@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <HelloWorld/>
+    哈哈哈哈哈哈哈
   </div>
 </template>
 
